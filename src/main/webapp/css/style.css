@@ -1,0 +1,23 @@
+body{
+	color: white;
+	background:#424242
+}
+
+.container{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center
+}
+
+.menu_container ul{
+	list-style-type: none;
+	display: flex;
+	color:white;
+}
+
+.menu_container li a{
+	display:block;
+	margin:5px 10px;
+	color:white;
+}
